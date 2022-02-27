@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue; between George Keith, and an eminent Quaker relating to his coming over to the Church of England. With some modest reflections on Mr. Keith's two first sermons, preach'd at St. Georges Buttolphs Church on Sunday May the 12th. 1700.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81417</idno>
+            <idno type="STC">Wing D1311A</idno>
+            <idno type="STC">ESTC R224917</idno>
+            <idno type="EEBO-CITATION">99897209</idno>
+            <idno type="PROQUEST">99897209</idno>
+            <idno type="VID">135720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135720)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue; between George Keith, and an eminent Quaker relating to his coming over to the Church of England. With some modest reflections on Mr. Keith's two first sermons, preach'd at St. Georges Buttolphs Church on Sunday May the 12th. 1700.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135720:1"/>
+            <p>A DIALOGUE, BETWEEN George Keith, AND AN Eminent <hi>Quaker,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elating to his coming over to the Church of <hi>England.</hi>
+            </p>
+            <p>With ſome modeſt Reflections on Mr. <hi>Keith</hi>'s Two firſt Ser<g ref="char:EOLhyphen"/>mons, Preach'd at St. <hi>Georges Buttolphs</hi> Church on <hi>Sunday May</hi> the 12th. 1700.</p>
+            <p>LONDON, Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:135720:2"/>
+            <head>A DIALOGUE, BETWEEN <hi>George Keith,</hi> and an Eminent <hi>Quaker,</hi> &amp;c.</head>
+            <sp>
+               <speaker>GEorge Keith.</speaker>
+               <p>Well Friend; what does my <hi>Quandum</hi> Brethren ſay of me ſince I left their Society.</p>
+            </sp>
+            <sp>
+               <speaker>Quaker.</speaker>
+               <p>
+                  <hi>Say of thee, marry, no more than what <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and moſt good People think of thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>Prethee what's that?</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Why, to be plain with thee, thou are a me<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Weather-cock and a Friend to nothing, but the Mamon o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Unrighteouſneſs; and having left the Truth and the Light for the Wages of Sin; therefore conſequently thou ar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the Gaul of Bitterneſs and in the Bond of Iniquity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>Nay, this is no more than what I ex<g ref="char:EOLhyphen"/>pected from a <hi>Quaker,</hi> but Spleen and ill Na<g ref="char:EOLhyphen"/>ture, for I have experinced to my coſt, that nothing but Nonſence and Contradiction will be Reliſhed a<g ref="char:EOLhyphen"/>mong you: Its well known I left you for no other cauſe, but for your Erronious and Vile Principals, in appearing to the World to be Peaceable Hum<g ref="char:EOLhyphen"/>ble, Hon<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, True, and Sincere, when in Reality, your Society is made up of little elſe, but Envy
+<pb n="3" facs="tcp:135720:2"/>ſecret Malice, Bitterneſs, Pride, Deceit, and Fraud. Though covered over with the notion of Sainctty, and this is the real Fundamentals of your Hocus Pocus, or Art of Ledgerdmain, and is at this Day very finely Acted and Humour'd a<g ref="char:EOLhyphen"/>mong you.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Well</hi> George <hi>I am not inclind to Quarrel with thee neither am I prepar'd to enter into a Diſpute with thee at this time, by reaſon</hi> Satan <hi>has not only puff'd thee up, but furniſhed thee with railing accuſation a<g ref="char:EOLhyphen"/>gainſt us: But leaving the Lord to rebuke thee, I ſhall only ask thee ſome Queſtions, and ſo proceed moderatly in ſerious Diſcourſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>You may ask me what Queſtions you pleaſe (provided they be not Impertinent ones) <hi>I</hi> will endeavour to Anſwer them, as well as <hi>I</hi> can.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Pray</hi> George <hi>tell me, why thou lefts the Reli<g ref="char:EOLhyphen"/>gion thou weret brought up in, and joine thy ſelf to our Profeſſion, if thou didſt not ſee ſomthing in it, that in<g ref="char:EOLhyphen"/>vited thee to it? And if thou ſaweſt any thing amongeſt us, (eſpecially in the Doctrinal part) that was ſo very Wicked, Vile and Erronous, as thou ſeemeſt to Inſinuate, tis ſtrange, being ſo cuning as thou art, thou dideſt not find it out till now, having been ſo long amongeſt us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>As to your firſt Queſtion, its true, <hi>I</hi> was at firſt mightily taken with your modeſt Apparrel, Behaviour, abſtenace from Oathes, and abundance of other pretended Vertues, theſe were the deluſive Bates that caught me, and many others, and was ſo cunningly Supported with that new invented Prat<g ref="char:EOLhyphen"/>tle, (<hi>I</hi> wont ſay Doctrin) of the <hi>Light within,</hi> that your Villainy and Deceit, were ſo Dark without
+<pb n="4" facs="tcp:135720:3"/>that, I could not quickly deſcern it: And to the other Queſtion tis well known both in <hi>Penſilvania</hi> and other places, I long ago openly Proteſted a<g ref="char:EOLhyphen"/>gainſt many of your Errors, and notorious Impi<g ref="char:EOLhyphen"/>eties, and by Gods bleſſings Convinc'd many of their Wickedneſs, who are now ready to Confeſs that preſumptious notion of the <hi>Light within</hi> was nothing but the Spirit of Error and Deluſion.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Well I ſee thy carnal Thoughts begins to prompt thee to Paſſon and Heat, but it being no new thing in thee I paſs it by: But I muſt tell thee, thy hopping from Perk to Perk, after this rate makes thee in my opinion ſmell very Rank of a late</hi> Salamanca Dr. <hi>tho in Chari<g ref="char:EOLhyphen"/>ty to thy aged Carcaſs, I wiſh thee better Succeſs, than he had, and leave thy deſerts to thy ſelf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>I ſee nothing but Sence comes amiſs to a <hi>Quaker;</hi> heres a Compariſon with a Contradiction in the Belly of it, the Docter you ſpeak of revolted from the Church to the Baptiſt, and I from the Baptiſt to the Church, ſo that her's a down right Contrarity in ſtead of a Parralle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Pray</hi> George <hi>been't ſo Angrey, the Compariſon is not ſo Wide as its Odious, for you both hopp'd, and both to one Church too, tho not both at a time, nor both one way, for now I think on't the Baptiſt and Church of</hi> England <hi>made an Exchange, for Two turn Coates, but which has got the beſt Bargain is hard to Determine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>Well, well for all your Reflections tis well known I am highly eſteem'd of and I am ſatis<g ref="char:EOLhyphen"/>fy'd that I am Chang'd for the Better, and as for others who have chang'd their Opinions in Reli<g ref="char:EOLhyphen"/>gion (which you are pleaſed to call Hopping) if
+<pb n="5" facs="tcp:135720:3"/>they keep out from herding among the <hi>Quakers</hi> there may be ſome hopes of them, but if once de<g ref="char:EOLhyphen"/>luded and decoy'd with your pretended Light within, it proves ſuch a Cloak for Deceit and Kna<g ref="char:EOLhyphen"/>very that very few, without a Miracle are re<g ref="char:EOLhyphen"/>clam'd; it being little leſs than bewitching.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Nay I have promiſed, I will not engage in a Quarrel, with thee therefore for bare theſe tart Ar<g ref="char:EOLhyphen"/>guments, and tell me what an Auditory thou hadeſt at</hi> Billings-gate <hi>Steeple-houſe Sermons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>I aſſure you a very numerous Company, came both fore, and afternoon, of all Ages and Quallities, which is an infailible argument of their approving my Doctrin.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Not at all</hi> George <hi>in my Opinion, for I have ſeen almoſt as great a Crowd at</hi> Bedlam, <hi>to hear and ſee the mad Folkes there, and indeed its no ſtrange thing to ſee the Multitude run after Novelties, an inſtance of which we had not long ſince of the</hi> White Parſon, <hi>who Preach'd againſt Hirlings, and tho a Docterin quite contrary to thine, he drew more numerous Mul<g ref="char:EOLhyphen"/>titudes after him than came to thy Sermon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>Here's another fine compariſon again, but you miſtake the place, its <hi>Grace-church ſtreet</hi> Meeting Houſe, that is a more nearer Type of <hi>Bed<g ref="char:EOLhyphen"/>lam,</hi> it being throng'd always ſo full of Fools and Mad Men, both Speakers and Hearers being little better; and to render the Emblem more ex<g ref="char:EOLhyphen"/>act, the Holders Forth are not only gifted with the motions, actions, and poſtures of Lunaticks, but they humour their very Tone too to a Miracle.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Truely</hi> George <hi>thy Tongue's no ſlander otherwiſe
+<pb n="6" facs="tcp:135720:4"/>perhaps I might frame an anſwer ſuitable enough to thy railery; But to let thee ſee my good nature, I can as ea<g ref="char:EOLhyphen"/>ſily forgive thee for what thou haſt done, as ſome Chari<g ref="char:EOLhyphen"/>table People, Cherriſh Old Lame Defective and Foun<g ref="char:EOLhyphen"/>dred Horſes, for the ſtrength they had formerly. Yet before we part I muſt tell thee that the</hi> White Parſon<hi>'s Doctrin and thine in ſome meaſure agrees for tho' he Preach'd down hire becauſe he had loſt it, thou Preacht it up in hopes to obtain it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>You talk of good Nature, when tis well known, you are altogether ſtrangers to it, elſe what meanes your Tribe by calling me Lyar, Falſe, Treacherous, and Deceitful Man, Wicked and Malicious, and for no other cauſe but by expoſing their ernonious and falſe Principals; therefore knowing my Innocency, and their odious Cla<g ref="char:EOLhyphen"/>mours, and falſe Accuſations, the Crime will ly at their Doors in calling Names; and I ſhall beare Revilings with the greater Patience.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>But</hi> George <hi>thoſe things, which thou now call<g ref="char:EOLhyphen"/>eſt, Vile, Errovr, and Heriſies, thou for ſome Years preach'd up and Applauded, and dideſt affirm, that in ſo doing thou hadeſt a divine Sence and Acceptance, and that thou very zealouſly Labour'd to defend them, by many cuning Arguments.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>I deny that I ever ſo much as Endeavour<g ref="char:EOLhyphen"/>ed to defend thoſe vile Errors, which oppoſe the four great Fundamental Doctrine of the Chriſti<g ref="char:EOLhyphen"/>an Religion, which I have ſince charged them with, or indeed any other Article of the Chriſtian Faith, prorerly ſo called: But ſuppoſe I did endeaver to mantain, your Heritical Notions (while under a
+<pb n="7" facs="tcp:135720:4"/>miſtaken zeal) is that an Argument of my doing ſo always: Muſt <hi>Paul</hi> be thought an unſound Chriſtian, becauſe he was once a Perſecuting <hi>Jew,</hi> and continue a Perſecuter, and a blind Leader of the Blind, for fear of being call'd an Apoſtate, from the Principles he retain'd in the Days of his Ignorance; If this be the ſence of your Arguments, you may with as much reaſon Exclaime againſt the Man, who uſed for ſeveral Years laſt paſt, to walk willfuly about the Streets without Cloathes, and be angey with him for Cloathing himſelf, be<g ref="char:EOLhyphen"/>cauſe he uſed to go Naked, as to rail at me for lea<g ref="char:EOLhyphen"/>ving that Society, which my Conſcence as well as Reaſon tells me is moſt notoriouſly Miſled, but no wonder to hear Quakers Argue at this rate, when they themſelves are conſtant in nothing, but Con<g ref="char:EOLhyphen"/>tradiction and Nonſenſe; for if any one ſhould ask what Religion you profeſs, I am ſure no bet<g ref="char:EOLhyphen"/>ter Anſwer could be made than that no body knows, nor your ſelves neither; therefore its great Pitty, this Inſcription is not ſet over all the Doors of your <hi>Meeting-Houſes,</hi> viz. <hi>This Place is Dedicated to the unknown God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>Away with this Sophiſtry, and Critical Reflecti<g ref="char:EOLhyphen"/>ons; I plainly perceive that thy Back is Riſen in a great meaſure againſt me; prethee</hi> George <hi>abate thy carnal paſſion, and lay aſide all prejudice and ill Will: For to be plain with thee if thy ſeperation from us be purely for Conſcience ſake, I am ſo far from blaming thee that I highly commend thee, but if this change proceeds from the hopes of worldly Gain or ſelf Intereſt thou are in a moſt ſad and deplorable Pickle, and con<g ref="char:EOLhyphen"/>ſequently,
+<pb n="8" facs="tcp:135720:5"/>will add but little Credit to the Church of</hi> England, <hi>or ſolid ſatisfaction to thy ſelf, in the long run.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>Tis but loſt Labour to diſcourſe with ſuch an Iliterate Cox-com as a <hi>Quaker;</hi> have not I ſufficiently inform'd the World in my two Ser<g ref="char:EOLhyphen"/>mons lately publiſhed, that it was the <hi>Quakers</hi> vile Errours baſe Principals, wild Frentick, and abomi<g ref="char:EOLhyphen"/>nable Deluſions, which you ſo much cry up for the true Light and movements of the Spirit, the cauſed me to Relinquiſh their Society, and no any Intereſt of Worldly advantage as many o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you ſo falſely, as well as fooliſhly Imagin.</p>
+            </sp>
+            <sp>
+               <speaker>Q.</speaker>
+               <p>
+                  <hi>VVell</hi> George <hi>if it prove ſo 'twill be thy own ano<g ref="char:EOLhyphen"/>ther Day. But tis a Riddle to me, to ſee thee play Faſ. and Looſe at this ſtrange rate, and to tell thee freel my thoughts, thy Black Gown don't at all become thee however thou thinks of thy ſelf, I mean as to thy out<g ref="char:EOLhyphen"/>ward Tabernacle, for inwardly the Light has been long Extinguiſh'd: Therefore I leave thee as a loſt and un<g ref="char:EOLhyphen"/>done Veſſel: For thy very Sermons beſpeaks thee no leſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>I vallue not what the <hi>Quakers</hi> ſay of me I am ſure my Sermons has gain'd a general ap<g ref="char:EOLhyphen"/>probation and kind reception, and had been much eſteem'd had not an Ignorant and Illiterate Perſon of your Society thrown out a ſham one to diſgrace me, it being ſtuft with nothing but impertinence, traſh and rediculous Nonſence from one end to the other, which plainly ſhowes the Malice, Envy Govetouſneſs and Fraud of thoſe ſort of People, notwithſtanding, their pretended Light purity, honeſty and plain dealing, ſo at preſent Farewell.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
